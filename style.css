@@ -1,0 +1,16 @@
+body{
+    text-align: center; 
+    background: purple; 
+    color: white; 
+    padding-top: 3em; 
+
+
+}
+#cookie{
+    display: block; 
+    width: 90% ; 
+    margin: 0 auto; 
+}
+.shrink{
+    transform: scale(0.8)
+}
